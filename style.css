@@ -330,6 +330,10 @@ i {
   .btn-whatsapp img {
     max-width: 60px;
   }
+  .footer p {
+    font-size: 12px;
+    text-align: center;
+  }
 }
 body {
   font-family: "Sora", sans serif;
